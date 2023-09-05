@@ -6,10 +6,10 @@ import tweepy
 from plotly.subplots import make_subplots
 from transformers import pipeline
 
-consumer_key = "sHz78Xj5Dl41cqfzEHVoRcaKo"
-consumer_secret = "3y5caZfu91nmB2MNH7mDSu5Cgf5qaVRpMfbDoCPW4dU7E46k03"
-access_key = "1116912581434695680-x359MscPSdqEcJzoIlg4jMsCZRdyNX"
-access_secret = "wEsALFUava2TnYXWnuacrzSK4eiYfJUFLBRWPqGuMRnTz"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_key,access_secret)
