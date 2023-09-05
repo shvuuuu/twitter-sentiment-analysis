@@ -1,0 +1,7 @@
+pandas
+transformers
+tweepy
+tabulate
+plotly
+torch
+altair<5
